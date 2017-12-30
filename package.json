@@ -17,13 +17,14 @@
     "url": "https://github.com/eleme-assistant/eleme-assess-assistant/issues"
   },
   "homepage": "https://github.com/eleme-assistant/eleme-assess-assistant#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/lodash": "^4.14.91",
+    "axios": "^0.17.1",
     "lodash": "^4.17.4",
     "ts-node": "^4.1.0",
     "tslint": "^5.8.0",
     "typescript": "^2.6.2"
-  },
-  "devDependencies": {
-    "@types/lodash": "^4.14.91"
   }
 }
